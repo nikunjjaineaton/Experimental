@@ -9,7 +9,6 @@
 
 
 export const chartOptions ={
-  
   series: [{
       data: [1, 2, 3]
   }]
